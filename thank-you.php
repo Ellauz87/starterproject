@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Nucleous 3 Limited Oil and gas plant integrity management, project management, and supply chain services for the Oil and gas, power and manufacturing industry. </title>
+	<link rel="shortcut icon" type="image/x-icon" href="css/images/favicon.ico" />
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+  
+	<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="all" />
+	
+	<script src="js/jquery-1.7.2.min.js" type="text/javascript"></script>
+	<!--[if lt IE 9]>
+		<script src="js/modernizr.custom.js"></script>
+	<![endif]-->
+	<script src="js/jquery.flexslider-min.js" type="text/javascript"></script>
+	<script src="js/functions.js" type="text/javascript"></script>
+    <style type="text/css">
+<!--
+.style1 {color: #CE1414}
+.style2 {
+	color: #000000;
+	font-weight: bold;
+}
+.style3 {
+	color: #FF0000;
+	font-weight: bold;
+}
+-->
+    </style>
+</head>
+<body>
+	<!-- wrapper -->
+	<div  id="wrapper">
+		<!-- header -->
+		<header>
+			<div class="shell">
+				<h1 id="logo"><a href="#">Core</a></h1>
+				<div class="contact">				</div>
+			</div>	
+	  </header>
+		<!-- end of header -->
+		<!-- navigation -->
+		<nav id="navigation">
+			<div class="shell">
+				<ul>
+					<li class="active"><a href="index.html"><span></span>HOME</a></li>
+				  <li><a href="about.html"><span class="bottom-arr"></span>ABOUT</a>
+                   <ul>
+                  <li><a href="vision.html">Vision</a></li>
+                    <li><a href="mission.html">Mission</a></li>
+                    <li><a href="edge.html">Our Edge</a></li>
+           
+               </ul>
+                  
+                  </li>
+				  <li><a href="#"><span class="bottom-arr"></span>SERVICES</a>
+                  <ul>
+                  <li><a href="supply.html">Supply Chain</a></li>
+                    <li><a href="asset.html">Asset Integrity</a></li>
+                    <li><a href="maintenance.html">Maintenance</a></li>
+                    <li><a href="support.html">Project Support</a></li>
+               </ul>
+                  </li>
+				  <li><a href="safety.html"><span class="bottom-arr"></span>QHSE</a></li>
+                  <li><a href="team.html"><span class="bottom-arr"></span>CSR</a></li>
+                
+				  <li><a href="career.html"><span class="bottom-arr"></span>CAREER</a></li>
+				  <li><a href="contact.html"><span class="bottom-arr"></span>CONTACT US</a></li>
+			  </ul>
+			</div>	
+		</nav>
+		<!-- end of navigation -->
+		<!-- slider-holder -->
+		<!-- slider-holder -->
+		<div class="slider-holder">
+			<div class="shell">
+				<span class="slider-shadow"></span>
+				<div class="slider flexslider">
+					<ul class="slides"><li>
+							<img src="css/images/careerslider.png" alt="best oil and gas company in Nigeria" />
+							<div class="slide-cnt">
+								<h2>A Friendly Environment</h2>
+								<p></p>
+							</div>
+						</li>
+						<li>
+							<img src="css/images/careerslider2.png" alt="" />
+							<div class="slide-cnt">
+								<h2>Diversity and Inclusiveness</h2>
+								<p>  </p>
+							</div>
+						</li>
+						<li>
+							<img src="css/images/careerslider3.png" alt="" />
+							<div class="slide-cnt">
+								<h2>Team Work</h2>
+						<p>						</p>
+							</div>
+						</li>
+						<li>
+							<img src="css/images/manpower.png" alt="" />
+							
+								<h2>Technical Professional</h2>
+								<p>                          </p>
+							
+						</li>
+						<li>
+							
+								
+					  </li>
+					</ul>
+		  </div>
+			</div>	
+		</div>	
+		<!-- end of slider-holder -->
+		<!-- services -->
+		<section class="services">
+			<div class="shell">
+				<div class="boxes">
+					<h2>What We Do</h2>
+					<div class="cl">&nbsp;</div>
+					<div class="box">
+						<a href="#"class="tittle">
+							<img src="css/images/print-design.png" alt="" />
+							<h3>SUPPLY CHAIN</h3>
+						</a>					</div>
+					<div class="box">
+						<a href="#"class="tittle">
+							<img src="css/images/graphic-design.png" alt="" />
+							<h3>ASSET INTEGRITY</h3>
+						</a>					</div>
+					<div class="box">
+						<a href="#"class="tittle">
+							<img src="css/images/logo-design.png" alt="" />
+							<h3>MAINTENANCE SERVICES</h3>
+						</a>					</div>
+					<div class="box">
+						<a href="#"class="tittle">
+							<img src="css/images/vector-characters.png" alt="" />
+							<h3>PROJECT SUPPORT</h3>
+						</a>					</div>
+					<div class="cl">&nbsp;</div>
+				</div>
+		  </div>
+		</section>
+		<!-- end of services -->
+		<!-- main -->
+		<div class="main">
+			<div class="shell">
+				<section>
+					<!-- content -->
+					<div class="content">
+                          <p class="style3">&nbsp;</p>
+						  
+	<a name="thankyou"></a>
+<h2>Your CV has been forwarded to our hr, we will get back to you ASAP.</h2>
+						  
+				  </div>
+      <!-- end of content -->
+					<!-- aside -->
+					<aside>
+						<div class="widget">
+							<h2>&nbsp;</h2>
+							<!--<p><img src="css/images/career.png" width="263" height="453"></p>-->
+						  <div class="cl">&nbsp;</div>
+						</div>
+						<div class="widget">
+							<h2>&nbsp;</h2>
+					        <div class="cl">&nbsp;</div>
+						</div>
+					</aside>
+					<!-- end of aside -->
+					<div class="cl">&nbsp;</div>
+				</section>
+			</div>
+		</div>
+		<!-- end of main -->
+		<div id="footer-push"></div>
+	</div>
+	<!-- end of wrapper -->
+	<div id="footer">
+		<div class="shell">
+			<nav class="footer-nav">
+				<a href="index.html"><span></span>HOME</a></li>
+				  <a href="about.html"><span class="bottom-arr"></span>ABOUT</a>
+				  <a href="supply.html"><span class="bottom-arr"></span>SERVICES</a>
+				  <a href="safety.html"><span class="bottom-arr"></span>SAFETY POLICY</a>
+                   <a href="team.html"><span class="bottom-arr"></span>OUR TEAM</a>
+                   
+				  <a href="career.html"><span class="bottom-arr"></span>CAREER</a>
+				  <a href="contact.html"><span class="bottom-arr"></span>CONTACT US</a>
+			</nav>
+			<p class="copy">Copyright &copy; 2014 Design by <a href="http://surfweb.com.ng" target="_blank" title="+2348026298030">Surfweb</a></p>
+			<div class="cl">&nbsp;</div>
+		</div>
+	</div>
+</body>
+</html>
